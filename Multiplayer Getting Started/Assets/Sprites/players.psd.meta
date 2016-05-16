@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: e52f8a3f9040b7a4283c26f5f322ef7f
+timeCreated: 1463296317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: players_0
+    21300002: players_1
+    21300004: players_2
+    21300006: players_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: players_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 31.5}
+        - {x: -38.5, y: -26.5}
+        - {x: -33.5, y: -31.5}
+        - {x: 37.5, y: -31.5}
+        - {x: 38.5, y: -30.5}
+        - {x: 38.5, y: 31.5}
+    - name: players_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 265
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 31.5}
+        - {x: -38.5, y: -31.5}
+        - {x: 30.5, y: -31.5}
+        - {x: 38.5, y: -24.5}
+        - {x: 38.5, y: 28.5}
+        - {x: 35.5, y: 31.5}
+    - name: players_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 181
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 24}
+        - {x: -38, y: 19}
+        - {x: -38, y: -23}
+        - {x: -35, y: -24}
+        - {x: 38, y: -24}
+        - {x: 38, y: 17}
+        - {x: 36, y: 24}
+    - name: players_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 194
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 24}
+        - {x: -38.5, y: -18}
+        - {x: -36.5, y: -24}
+        - {x: 28.5, y: -24}
+        - {x: 38.5, y: -19}
+        - {x: 38.5, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
